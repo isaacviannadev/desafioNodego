@@ -13,6 +13,8 @@ transactionsRouter.get('/', async (request, response) => {
 
 transactionsRouter.post('/', async (request, response) => {
   // TODO
+  
+
 });
 
 transactionsRouter.delete('/:id', async (request, response) => {
